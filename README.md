@@ -33,9 +33,9 @@ class Pradeepraja:
     name       = "Pradeepraja R B"
     pronouns   = "He/Him"
     location   = "Chennai, India 🇮🇳"
-    education  = "B.Tech – Artificial Intelligence & Data Science"
+    education  = "B.E– Artificial Intelligence "
     passion    = ["Machine Learning", "Computer Vision", "Full-Stack AI Apps"]
-    current    = "Building AgriVision – AI-powered smart farming platform 🌾"
+    current    = "Building AgriVision – AI-powered smart farming platform 🌾"mindmate-Ai-powered mental health"
     contact    = ["pradeepraja2006pr@gmail.com", "prsist235@gmail.com"]
 ```
 
