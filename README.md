@@ -141,7 +141,7 @@ class Pradeepraja:
 - 🌤️ **Real-time weather data** integration
 - 🗄️ **MySQL** for structured crop analytics
 
-[![View Project](https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/pradeepraja235)
+[![View Project](https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/Tamizh019/CropYield_Prediction.git)
 
 </td>
 <td width="50%" valign="top">
