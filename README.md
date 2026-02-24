@@ -181,7 +181,7 @@ class Pradeepraja:
 - 🌟 **Top-N recommendations** with poster & ratings
 - ⚡ **Streamlit UI** for instant movie search
 
-[![View Project](https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/pradeepraja235)
+[![View Project](https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/Pradeepraja235/cinetime.git)
 
 </td>
 <td width="50%" valign="top">
